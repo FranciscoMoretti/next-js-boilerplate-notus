@@ -1,2 +1,9 @@
 node_modules
 out
+./next-end.d.ts
+./next.config.js
+./postcss.config.js
+./tailwind.config.js
+./build
+./public
+./lib/gtag.js

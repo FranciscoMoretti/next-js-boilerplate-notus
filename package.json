@@ -14,16 +14,20 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "lodash": "^4.17.21",
     "next": "^12.0.2",
     "next-seo": "^4.28.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-live": "^2.3.0",
     "styled-jsx-plugin-postcss": "^4.0.1"
   },
   "devDependencies": {
     "@next/bundle-analyzer": "^12.0.2",
+    "@types/lodash": "^4.14.177",
     "@types/node": "^16.11.6",
     "@types/react": "^17.0.33",
+    "@types/react-dom": "^17.0.11",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
     "autoprefixer": "^10.4.0",
